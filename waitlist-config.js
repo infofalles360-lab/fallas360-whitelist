@@ -10,6 +10,7 @@ window.FALLES360_WAITLIST = Object.assign(
     successTitle: "Ya estas dentro.",
     successMessage: "Te avisaremos antes que nadie cuando abramos el acceso anticipado.",
     successHref: "https://infofalles360-lab.github.io/fallas360-whitelist/?enviado=1",
+    formHref: "https://infofalles360-lab.github.io/fallas360-whitelist/",
   },
   window.FALLES360_WAITLIST || {},
 );
