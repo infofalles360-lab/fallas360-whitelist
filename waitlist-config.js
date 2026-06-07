@@ -1,6 +1,6 @@
 window.FALLES360_WAITLIST = Object.assign(
   {
-    endpoint: "https://formsubmit.co/ajax/info.falles360@gmail.com",
+    endpoint: "https://formsubmit.co/info.falles360@gmail.com",
     countEndpoint: "",
     initialCount: 0,
     payloadFormat: "json",
@@ -9,6 +9,7 @@ window.FALLES360_WAITLIST = Object.assign(
     landingHref: "./index.html",
     successTitle: "Ya estas dentro.",
     successMessage: "Te avisaremos antes que nadie cuando abramos el acceso anticipado.",
+    successHref: "https://infofalles360-lab.github.io/fallas360-whitelist/?enviado=1",
   },
   window.FALLES360_WAITLIST || {},
 );
