@@ -8,7 +8,7 @@ window.FALLES360_WAITLIST = Object.assign(
     privacyHref: "./privacy.html",
     landingHref: "./index.html",
     successTitle: "Ya estas dentro.",
-    successMessage: "Te avisaremos antes que nadie cuando abramos el acceso anticipado.",
+    successMessage: "Solicitud recibida. Te hemos enviado una confirmacion; revisa tambien Spam o Promociones.",
     successHref: "https://infofalles360-lab.github.io/fallas360-whitelist/?enviado=1",
     formHref: "https://infofalles360-lab.github.io/fallas360-whitelist/",
   },
