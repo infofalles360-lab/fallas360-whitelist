@@ -1,6 +1,6 @@
 window.FALLES360_WAITLIST = Object.assign(
   {
-    endpoint: "https://formsubmit.co/ajax/info.falles360@gmail.com",
+    endpoint: "https://formsubmit.co/info.falles360@gmail.com",
     countEndpoint: "",
     initialCount: 0,
     payloadFormat: "json",
